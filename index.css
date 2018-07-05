@@ -4,6 +4,9 @@ body {
 
 .quiz-wrapper {
   background-color: #f7f7f7;
+  width: 67%;
+  height: 100%;
+  padding: 3%;
 }
 
 label {
@@ -16,12 +19,6 @@ label {
 
 .container-fluid {
   align-items: center;
-}
-
-.quiz {
-  width: 67%;
-  height: 100%;
-  padding: 3%;
 }
 
 .quiz-header {
@@ -44,7 +41,7 @@ label {
   padding-left: 10px;
 }
 
-.confirma-wrapper {
+.ready-wrapper {
   text-align: center;
 }
 
